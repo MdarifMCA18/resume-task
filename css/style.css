@@ -1,0 +1,109 @@
+<style>
+.header-left {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.header img {
+height: 15vh;
+}
+.box1{
+    display: flex;
+}
+.header_tag{
+    margin-left:12%;
+}
+.header_bottom{
+    display:flex;
+   margin: auto;
+  }
+  .header_bottom{
+    display: flex;
+    gap: 40px;
+}
+div .header_bottom a{
+    text-decoration: none;
+    color: black;
+    word-spacing: 5px;  
+}
+.box2 a{
+    text-decoration: none;
+    color: whitesmoke;
+    border: 2px solid white;
+}
+.centre{
+    text-align: center;
+}
+.box2{
+ height:180px;
+    background-color: black;
+}
+.centre h3{
+    color: gray;
+}
+.centre h1{
+    color: white;
+}
+span{
+    color: rgb(87, 77, 77);
+}
+.box3{
+    display: flex;
+}
+.left{
+    margin-left:5%;
+}
+.part2 img{
+    height: 7vh;
+}
+.sub1{
+    display: flex;
+}
+.sub1 p{
+    border: 0px;
+    padding: 20px;
+   background: rgb(242, 236, 236);
+}
+.sub1 div{
+    margin-right: 20%;
+}
+.line1{
+    color:rgb(188, 181, 181);
+}
+.line2{
+color: black;
+font-size:15px;
+}
+.line3{
+   font-weight: bold;
+   font-size: 18px;
+}
+.line4{
+    font-size: 15px;
+    color: rgb(173, 167, 167);
+}
+.pro1 span{
+    color:rgb(188, 181, 181) ;
+}
+#color{
+    color: black;
+    font-weight: bold;
+}
+.pro2 span{
+    color:rgb(188, 181, 181) ;
+}
+#color{
+    color: black;
+    font-weight: bold;
+}
+.pro3 span{
+    color:rgb(188, 181, 181) ;
+}
+#color{
+    color: black;
+    font-weight: bold;
+}
+.space{
+  margin-right:20px;
+   
+}
+</style>
